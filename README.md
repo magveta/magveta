@@ -1,9 +1,14 @@
-# Hello, i'm Lucas Magueta! 
+![banner](https://user-images.githubusercontent.com/127806458/235798232-e296a35b-afd9-46b2-a086-6e0879070b10.png)
+
+
+# Hello, i'm Lucas Magueta! :wave:
 
 Welcome to my github page. 
 I'm a aspiring developer from **São Paulo, Brazil 🇧🇷**.
 
 I'm currently estudying the programmming languages Python & Rust, while also learning about data science. I do have knowledge in Kotlin, Android development and CSS/HTML aswell, but it's not my focus at the moment.
+
+:speech_balloon: You can contact me via e-mail: lu.magueta@gmail.com
 
 ---
 
