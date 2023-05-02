@@ -6,7 +6,7 @@ I'm a aspiring developer from **São Paulo, Brazil 🇧🇷**.
 I'm currently estudying the programmming languages Python & Rust, while also learning about data science. I do have knowledge in Kotlin, Android development and CSS/HTML aswell, but it's not my focus at the moment.
 
 ---
-<img src=https://user-images.githubusercontent.com/127806458/235792359-6ee3cffb-a8fb-4f6a-9ba3-26fdb643e6b2.png>
+<img src=https://user-images.githubusercontent.com/127806458/235792359-6ee3cffb-a8fb-4f6a-9ba3-26fdb643e6b2.png height=50%>
 
 
 ### Toolbox 
