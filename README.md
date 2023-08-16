@@ -10,7 +10,7 @@ I'm currently estudying the programmming languages Python & Rust, while also lea
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMagueta&show_icons=true&theme=transparentx&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMagueta&show_icons=true&theme=transparent&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMagueta&hide_progress=true&theme=transparent)
 
 ---
