@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/127806458/235798232-e296a35b-afd9-46b2-a086-6e0879070b10.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?WMagueta=anuraghazra&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Hello, i'm Lucas Magueta! :wave:
