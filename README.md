@@ -12,8 +12,3 @@ I'm currently estudying the programmming languages Python & Rust, while also lea
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMagueta&show_icons=true&theme=transparent&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMagueta&hide_progress=true&theme=transparent)
-
----
-### Toolbox 
-
-<img src="https://user-images.githubusercontent.com/127806458/235786682-7e60ca5a-6d5e-4711-b6e0-e6550c536662.svg" width=5% height=5%> <img src="https://user-images.githubusercontent.com/127806458/235788394-5d1203f6-2173-4bd0-ac4e-8dc135322877.svg" width=5% height=5%>  <img src="https://user-images.githubusercontent.com/127806458/235790313-5a67a8ac-ebf8-45d9-8c4f-a26ad9d1b6ad.svg" width=5% height=5%> <img src="https://user-images.githubusercontent.com/127806458/235790260-bf4f0657-2935-41ab-a658-fc191efd9269.svg" width=5% height=5%> <img src="https://user-images.githubusercontent.com/127806458/235790307-0d9713ea-ed94-44f6-9adc-1b569c4e05e2.svg" width=5% height=5%> 
