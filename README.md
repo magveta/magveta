@@ -10,10 +10,5 @@ I'm currently estudying the programmming languages Python & Rust, while also lea
 
 ---
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMagueta&show_icons=true&theme=transparent&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMagueta&layout=compact&theme=transparent&hide_progress=true)
