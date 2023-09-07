@@ -9,6 +9,3 @@ I'm currently estudying the programmming language Python, while also learning ab
 :speech_balloon: You can contact me via e-mail: lu.magueta@gmail.com
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMagueta&show_icons=true&theme=transparent&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMagueta&layout=compact&theme=transparent&hide_progress=true)
